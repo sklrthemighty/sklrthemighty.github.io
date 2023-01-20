@@ -1,1 +1,3 @@
-# sklrthemighty.github.io
+# Skyler Ames
+
+### Resume Website
